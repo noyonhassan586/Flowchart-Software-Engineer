@@ -2,8 +2,6 @@
 
 # 🚀 Flowchart to Become a Professional Software Engineer
 
-FLOWCHART TO BECOME A PROFESSIONAL SOFTWARE ENGINEER AND END LIFE_page-0001.png
-
 ## 📌 About This Project
 
 This repository contains a **comprehensive flowchart** that provides a structured roadmap for becoming a **professional software engineer**. It covers essential steps such as:
@@ -16,10 +14,9 @@ This repository contains a **comprehensive flowchart** that provides a structure
 
 ## 📂 Files in This Repository
 
-- `FLOWCHART TO BECOME A PROFESSIONAL SOFTWARE ENGINEER AND END LIFE.pdf` - A detailed PDF guide
-- `FLOWCHART TO BECOME A PROFESSIONAL SOFTWARE ENGINEER AND END LIFE_page-0001.png
-` - A visual representation of the roadmap
-- `FLOWCHART TO BECOME A PROFESSIONAL SOFTWARE ENGINEER AND END LIFE.docx` - Editable MS Word version
+- A detailed PDF guide
+- A visual representation of the roadmap
+- Editable MS Word version
 
 ## 🔥 Key Topics Covered
 
@@ -36,20 +33,20 @@ This repository contains a **comprehensive flowchart** that provides a structure
 ✔ Preparing for **FAANG & multinational company interviews**
 
 ## 🌟 Why This Repository?
-- **Beginner-Friendly: Designed for those just starting their software engineering journey.
+- Beginner-Friendly: Designed for those just starting their software engineering journey.
 
-- **Practical: Focuses on actionable steps rather than overwhelming theory.
+- Practical: Focuses on actionable steps rather than overwhelming theory.
 
-- **Shareable: Spread the knowledge by sharing this repository with others!
+- Shareable: Spread the knowledge by sharing this repository with others!
 
 ## 🎯 Who Is This For?
 
-- **Aspiring Software Engineers**
-- **Computer Science Students**
-- **Self-Taught Developers**
-- **Anyone Preparing for FAANG Jobs**
+- Aspiring Software Engineers**
+- Computer Science Students**
+- Self-Taught Developers**
+- Anyone Preparing for FAANG Jobs**
 
 ## 📢 Contribution & Support
-- **🚀 Give this repo a star ⭐ to support the project!
-- **📢 Feel free to fork, improve, and submit pull requests.
-- **💬 Let's discuss and improve the roadmap together!
+- 🚀 Give this repo a star ⭐ to support the project!
+- 📢 Feel free to fork, improve, and submit pull requests.
+- 💬 Let's discuss and improve the roadmap together!
